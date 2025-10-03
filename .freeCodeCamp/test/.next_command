@@ -42,3 +42,6 @@ chmod +x insert_data.sh
 ./insert_data.sh
 chmod +x queries.sh
 ./queries.sh
+git init
+git remote add origin https://github.com/ttduc99/wc_db.git
+git add .
